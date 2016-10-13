@@ -1,0 +1,7 @@
+-*- org -*-
+
+* 20 Years of GNOME
+
+* Jonathan Blandford - Hand-drawn diagrams
+
+* Joe Shaw - Project Utopia, HAL
