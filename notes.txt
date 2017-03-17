@@ -1,5 +1,7 @@
 -*- org -*-
 
+20 Years of GNOME
+
 * https://www.gimp.org/about/ancient_history.html
 
   The last paragraph has this:
@@ -12,11 +14,72 @@ GNOME project is being aggressively supported by Red Hat Labs. All of
 this may be seen as a byproduct of GIMP. The success of this one
 project has spawned many.
 
-* 20 Years of GNOME
+* People to interview
 
-* Jonathan Blandford - Hand-drawn diagrams
+** Rosanna Yuen - GNOME Foundation, real old-timer, Aisleriot
 
-* Joe Shaw <joe@joeshaw.org> - Project Utopia, HAL
+** Jonathan Blandford - Hand-drawn diagrams; history, RHAD Labs
+
+** Marina - gnome-women, Outreachy
+
+** Joe Shaw and Robert Love - Project Utopia, HAL
+
+** Dave Mason - docs, RHAD Labs
+
+** Marius Vollmer - initial refcounting, language bindings
+
+
+** Rasterman - theming infrastructure, first sanctioned window manager
+
+** Someone from Eazel?
+
+** Shotwell, Geary
+
+** Someone from Ximian?
+
+** Evolution/India people - it got dropped on their laps
+
+** Maciej Stachowiak
+
+** Tim Janik - GObject
+
+** Evangelina Berdou
+
+** Havoc Pennington
+
+** Calum Benson - usability
+
+** Aaron Weber - docs
+
+** Frederic Crozat - packaging
+
+** Karen Sandler
+
+** Stormy Peters
+
+** Jeff Waugh
+
+** Luis Villa
+
+** Alan Cox
+
+** Sumana
+
+** TODO Could we get all the GUADEC organizers?
+
+** TODO List of Pants of Thanks
+
+** TODO Local communities
+
+** TODO Translators?
+
+** TODO Usability?
+
+** TODO Design?
+
+** TODO Documentation?
+
+** TODO Marketing?
 
 * Technological change?
 
@@ -43,3 +106,15 @@ you want to interview them so you can honor their place in GNOME's
 heritage in an upcoming anniversary project, that might work
 
 * Unix history in a git repo: https://github.com/dspinellis/unix-history-repo
+
+* XeTeX:
+
+** Install package texlive-xetex
+** Install package texlive-libertine - for nice fonts
+** Install package texlive-mdframed - for multipage frames with background colors
+** Install package texlive-glossaries - glossaries and acronyms
+
+** Install package texlive-biber - Replacement for bibtex(1)
+
+** Typesetting source code https://www.ctan.org/pkg/listings
+
