@@ -40,7 +40,8 @@ GTK+.
 
 Here is the
 \href{https://mail.gnome.org/archives/gtk-list/1997-August/msg00123.html}{original
-announcement for \GNOME} in its entirety, from August 15, 1997:
+  announcement for \GNOME} in its entirety, from August
+15, 1997:\cite{original-gnome-announcement}
 
 \begin{lstlisting}[basicstyle=\footnotesize,
     frame=single,
@@ -167,5 +168,20 @@ Note some evidence of this being pretty old:
 
 \end{itemize}
 
-This brings us to the official start of \GNOME and its
+Two things from the ``Goals'' section are worth noting:
+we planned to export the \gls{GTK} API through a {\em
+  procedural database}, like the \gls{GIMP}'s; also, we
+wanted to use Scheme as a high-level programming language
+for applications.
+
+While back then \KDE\ was squarely aimed at C++
+programmers --- after all, Qt was written in C++ ---, we
+wanted to give people a choice of programming language
+for applications.  Years later it became possible to
+write KDE applications in other languages, anyway.  Also,
+the ``procedural database'' more or less happened in the
+form of GObject Introspection; our language bindings
+happened with and without it. % FIXME: link to that chapter
+
+And this brings us to the official start of \GNOME\ and its
 history.
