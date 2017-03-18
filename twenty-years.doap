@@ -11,16 +11,16 @@
 
   <maintainer>
     <foaf:Person>
-      <foaf:name>Alexander Larsson</foaf:name>
-      <foaf:mbox rdf:resource="mailto:alexl@redhat.com" />
-      <gnome:userid>alexl</gnome:userid>
+      <foaf:name>Federico Mena Quintero</foaf:name>
+      <foaf:mbox rdf:resource="mailto:federico@gnome.org" />
+      <gnome:userid>federico</gnome:userid>
     </foaf:Person>
   </maintainer>
   <maintainer>
     <foaf:Person>
-      <foaf:name>Martin Wehner</foaf:name>
-      <foaf:mbox rdf:resource="mailto:martin.wehner@gmail.com" />
-      <gnome:userid>mwehner</gnome:userid>
+      <foaf:name>Jonathan Blandford</foaf:name>
+      <foaf:mbox rdf:resource="mailto:jrb@gnome.org" />
+      <gnome:userid>jrb</gnome:userid>
     </foaf:Person>
   </maintainer>
 
