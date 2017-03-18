@@ -43,7 +43,7 @@ project has spawned many.
 
 ** Tim Janik - GObject
 
-** Evangelina Berdou
+** Evangelia Berdou - her study of gnome demographics
 
 ** Havoc Pennington
 
