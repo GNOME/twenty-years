@@ -7,18 +7,20 @@
 \usepackage{verbatim}
 %\usepackage{picinpar}
 \usepackage[colorlinks,linkcolor=blue]{hyperref} % References as links/URLs in the PDF
+\usepackage[usenames,svgnames]{xcolor}
 \usepackage{listings}
 \usepackage{libertine}
 \usepackage{mdframed}
 \usepackage{makeidx}
 \usepackage{glossaries}
 
-%\usepackage[backend=biber]{biblatex}
-%\addbibresource{references_bibertool.bib}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{references_bibertool.bib}
 
 \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase} % to % % support TeX conventions like ‘‘--
 
 \def\GNOME{{\sc gnome}}
+\def\KDE{{\sc kde}}
 
 \makeindex
 \makeglossaries
@@ -79,6 +81,7 @@
 \input{swedish.tex}
 \input{pants.tex}
 
+\printbibliography
 \printglossaries
 \printindex
 

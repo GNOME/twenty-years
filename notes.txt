@@ -109,6 +109,9 @@ heritage in an upcoming anniversary project, that might work
 
 * XeTeX:
 
+https://en.wikibooks.org/wiki/LaTeX
+http://mirror.hmc.edu/ctan/macros/latex/contrib/listings/listings.pdf
+
 ** Install package texlive-xetex
 ** Install package texlive-libertine - for nice fonts
 ** Install package texlive-mdframed - for multipage frames with background colors
@@ -117,4 +120,3 @@ heritage in an upcoming anniversary project, that might work
 ** Install package texlive-biber - Replacement for bibtex(1)
 
 ** Typesetting source code https://www.ctan.org/pkg/listings
-
