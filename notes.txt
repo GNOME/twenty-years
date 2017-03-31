@@ -14,6 +14,12 @@ GNOME project is being aggressively supported by Red Hat Labs. All of
 this may be seen as a byproduct of GIMP. The success of this one
 project has spawned many.
 
+
+* Dave Neary's gnome census
+
+  https://www.slideshare.net/nearyd/gnome-census
+  https://lwn.net/Articles/397646/
+
 * People to interview
 
 ** Rosanna Yuen - GNOME Foundation, real old-timer, Aisleriot
