@@ -31,6 +31,9 @@ project has spawned many.
 
 ** Rasterman - theming infrastructure, first sanctioned window manager
 
+
+** Johan Dahlin - language bindings, pygtk maintainer
+
 ** Someone from Eazel?
 
 ** Shotwell, Geary
@@ -80,6 +83,11 @@ project has spawned many.
 ** TODO Documentation?
 
 ** TODO Marketing?
+
+
+* Gnome system tools - Chema, Arturo, Garnacho
+
+
 
 * Technological change?
 
