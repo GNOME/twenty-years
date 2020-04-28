@@ -138,3 +138,33 @@ http://mirror.hmc.edu/ctan/macros/latex/contrib/listings/listings.pdf
 ** https://en.wikibooks.org/wiki/LaTeX/Errors_and_Warnings#Underfull_hbox
 
 ** Make documents look better: https://twitter.com/katrielalex/status/984373545248706560
+
+* podcast proposal
+
+Let's use the interviews to create a podcast. The outwards aim of the podcast is to highlight the impact of the GNOME culture in the wider computing industry.
+
+There are many figures who may or may not be still involved in GNOME that played a crucial part and then used their strengths elsewhere in the industry.
+
+The idea is to use the first season to have higher level names that could attract the audience and if successful then on a follow up season we can start
+to talk more about contributors who are more well known inwards in the community. The idea is that in the first season, each guest is a well known figure outside of the GNOME ecosystem for work they did afterwards (.NET, Wikipedia...).
+
+If the first season goes well, then we can use that audience to introduce more GNOME-centric guests in a follow up season where we can start to focus on documenting
+the history of GNOME.
+
+** Candidates for season 1 (brainstorm):
+*** Nat (GitHub)
+*** Miguel (.NET/Xamarin)
+*** Havoc (tidelift)
+*** Vincent Untz (OpenStack/Cloud Foundry)
+*** Lennart (systemd)
+*** Quim Gil (Wikipedia)
+*** Behdad (Chrome/Google, Facebook)
+*** Chris Blizzard (Mozilla)
+
+** Candidates for season 2:
+*** Calum Benson (Sun)
+*** Stormy Peters (HP/ED/Red Hat/Microsoft)
+*** Owen Taylor
+*** Jonathan Blandford
+*** Allan Day
+...
