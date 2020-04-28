@@ -134,3 +134,7 @@ http://mirror.hmc.edu/ctan/macros/latex/contrib/listings/listings.pdf
 ** Install package texlive-biber - Replacement for bibtex(1)
 
 ** Typesetting source code https://www.ctan.org/pkg/listings
+
+** https://en.wikibooks.org/wiki/LaTeX/Errors_and_Warnings#Underfull_hbox
+
+** Make documents look better: https://twitter.com/katrielalex/status/984373545248706560
