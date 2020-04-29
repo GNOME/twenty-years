@@ -39,7 +39,7 @@ functions.
 Before GTK+ had reference counting, code looked more or less like
 this:
 
-\begin{lstlisting}[basicstyle=\footnotesize,
+\begin{lstlisting}[basicstyle=\footnotesize]
     GtkWidget *window;
     GtkWidget *box;
     GtkWidget *menubar;
@@ -75,7 +75,7 @@ collectors to work on top of GTK+'s simple reference counting.
 Now, in a purely reference-counted scheme of things, the code would
 have to look something like this:
 
-\begin{lstlisting}[basicstyle=\footnotesize,
+\begin{lstlisting}[basicstyle=\footnotesize]
     GtkWidget *window;
     GtkWidget *box;
     GtkWidget *menubar;
